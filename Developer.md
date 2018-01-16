@@ -6,3 +6,5 @@
 * [Chrome](http://www.google.cn/chrome/browser/desktop/)
 * [Sublime](https://www.sublimetext.com/)
 * [Pycharm](https://www.jetbrains.com/pycharm/?fromMenu)
+* [Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
+* []()
