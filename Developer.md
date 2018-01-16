@@ -41,3 +41,4 @@ There are some nice vps hosting commerce.
 | quickhostuk | <https://www.quickhostuk.com/> |
 | Vultr | https://my.vultr.com/ |
 | Namesilo | https://www.namesilo.com |
+| Budgetvm | https://cn.budgetvm.com/openvz-linux-vps.php |
