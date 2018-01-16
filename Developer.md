@@ -44,7 +44,7 @@ There are some nice vps hosting commerce.
 | Budgetvm | https://cn.budgetvm.com/openvz-linux-vps.php |
 
 #Proxy
-There are some proxy vps for free.
+There are some proxy for free.
 
 | Name | Address |
 | :--: | :------ |
