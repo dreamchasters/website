@@ -49,3 +49,6 @@ There are some proxy for free.
 | Name | Address |
 | :--: | :------ |
 | proxy-list | <https://proxy-list.org/english/index.php/> |
+| kuaidaili | https://www.kuaidaili.com/free/ |
+| xicidaili | <http://www.xicidaili.com/> |
+| cn-proxy | <http://cn-proxy.com/> |
