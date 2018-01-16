@@ -15,3 +15,5 @@
 * [Centos](https://www.centos.org/)
 * [Django](https://www.djangoproject.com/download/)
 * [Composer](http://www.phpcomposer.com/)
+* [Golang](https://golang.org/)
+* [HHVM](http://www.hhvm.org/)
