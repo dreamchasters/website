@@ -20,6 +20,7 @@
 * [backbox](https://www.backbox.org/)
 * [Linux Mint](http://www.linuxmint.com/)
 * [Nginx](http://nginx.org/)
+* [Linux服务器运维日志](https://www.centos.bz/)
 * [Django](https://www.djangoproject.com/download/)
 * [Composer](http://www.phpcomposer.com/)
 * [Golang](https://golang.org/)
