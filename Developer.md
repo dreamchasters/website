@@ -12,14 +12,14 @@
 * [Git](https://git-scm.com/downloads)
 * [TortoiseGit](https://tortoisegit.org/download/)
 * [Wireshark](https://www.wireshark.org/download.html)
-* [Debian] <https://www.debian.org/>
-* [Red Hat] <http://www.redhat.com/>
-* [Fedora] <https://getfedora.org/>
-* [CentOS] <https://www.centos.org/>
-* [trisquel gnulinux] <https://trisquel.info/>
-* [backbox]<https://www.backbox.org/>
-* [Linux Mint] <http://www.linuxmint.com/>
-* [Nginx] <http://nginx.org/>
+* [Debian](https://www.debian.org/)
+* [Red Hat](http://www.redhat.com/)
+* [Fedora](https://getfedora.org/)
+* [CentOS](https://www.centos.org/)
+* [trisquel gnulinux](https://trisquel.info/)
+* [backbox](https://www.backbox.org/)
+* [Linux Mint](http://www.linuxmint.com/)
+* [Nginx](http://nginx.org/)
 * [Django](https://www.djangoproject.com/download/)
 * [Composer](http://www.phpcomposer.com/)
 * [Golang](https://golang.org/)
