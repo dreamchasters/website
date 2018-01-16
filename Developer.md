@@ -4,3 +4,4 @@
 * [Python](https://www.python.org/)
 * [VisualStudio](https://www.visualstudio.com/zh-hans/downloads)
 * [Chrome](http://www.google.cn/chrome/browser/desktop/)
+* [Sublime](https://www.sublimetext.com/)
