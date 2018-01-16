@@ -18,3 +18,4 @@
 * [Golang](https://golang.org/)
 * [HHVM](http://www.hhvm.org/)
 * [Nodejs](http://nodejs.cn/)
+* [JavaJDK](http://www.oracle.com/technetwork/cn/java/javase/downloads/jdk8-downloads-2133151-zhs.html)
