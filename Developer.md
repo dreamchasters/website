@@ -42,3 +42,10 @@ There are some nice vps hosting commerce.
 | Vultr | https://my.vultr.com/ |
 | Namesilo | https://www.namesilo.com |
 | Budgetvm | https://cn.budgetvm.com/openvz-linux-vps.php |
+
+#Proxy
+There are some proxy vps for free.
+
+| Name | Address |
+| :--: | :------ |
+| proxy-list | <https://proxy-list.org/english/index.php/> |
