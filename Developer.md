@@ -40,3 +40,4 @@ There are some nice vps hosting commerce.
 | RamNode | <http://www.ramnode.com/> |
 | quickhostuk | <https://www.quickhostuk.com/> |
 | Vultr | https://my.vultr.com/ |
+| Namesilo | https://www.namesilo.com |
