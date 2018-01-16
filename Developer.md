@@ -19,6 +19,7 @@
 * trisquel gnulinux <https://trisquel.info/>
 * <https://www.backbox.org/>
 * Linux Mint <http://www.linuxmint.com/>
+* Nginx <http://nginx.org/>
 * [Django](https://www.djangoproject.com/download/)
 * [Composer](http://www.phpcomposer.com/)
 * [Golang](https://golang.org/)
