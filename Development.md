@@ -59,4 +59,5 @@ There are some proxy for free.
 | Name | Address |
 | :--: | :------ |
 | 小幺鸡 | <http://www.xiaoyaoji.cn/> |
+| MinDoc | <https://www.iminho.me/> |
 ---
