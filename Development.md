@@ -27,6 +27,13 @@
 * [HHVM](http://www.hhvm.org/)
 * [Nodejs](http://nodejs.cn/)
 * [JavaJDK](http://www.oracle.com/technetwork/cn/java/javase/downloads/jdk8-downloads-2133151-zhs.html)
+* [Heroku](https://devcenter.heroku.com/)
+* [Packagist](https://pkg.phpcomposer.com/)
+* [看雪安全](https://bbs.pediy.com/)
+* [i春秋](https://www.ichunqiu.com/)
+* [滴水逆向](http://www.dtdebug.com/)
+* [开源中国](https://www.oschina.net/)
+* [awesomes](https://www.awesomes.cn/)
 ---
 ## VPS Hosting
 There are some nice vps hosting commerce.
