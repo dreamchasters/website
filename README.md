@@ -35,6 +35,7 @@
 * [Chakram](http://dareid.github.io/chakram/)
 * [GameHacking](https://www.nostarch.com/gamehacking)
 * [RabbitMQ](http://www.rabbitmq.com/)
+* [Freebuf](http://www.freebuf.com/)
 * [看雪安全](https://bbs.pediy.com/)
 * [i春秋](https://www.ichunqiu.com/)
 * [滴水逆向](http://www.dtdebug.com/)
