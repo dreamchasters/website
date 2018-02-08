@@ -33,9 +33,9 @@
 * [i春秋](https://www.ichunqiu.com/)
 * [滴水逆向](http://www.dtdebug.com/)
 * [开源中国](https://www.oschina.net/)
-* [awesomes](https://www.awesomes.cn/)
-* [asana](https://app.asana.com/)
-* [stackoverflow](https://stackoverflow.com/)
+* [Awesomes](https://www.awesomes.cn/)
+* [Asana](https://app.asana.com/)
+* [Stackoverflow](https://stackoverflow.com/)
 * [安全维基](https://www.sec-wiki.com/)
 ---
 ## VPS Hosting
