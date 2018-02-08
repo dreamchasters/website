@@ -43,6 +43,8 @@
 * [开源中国](https://www.oschina.net/)
 * [安全维基](https://www.sec-wiki.com/)
 * [畅言社会化评论系统](http://changyan.kuaizhan.com/)
+* [Swoile-PHP异步网络通信引擎](https://www.swoole.com/)
+* [极光推送](http://docs.jiguang.cn/)
 ---
 ## VPS Hosting
 There are some nice vps hosting commerce.
