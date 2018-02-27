@@ -10,6 +10,7 @@
 * [phpStudy](http://www.phpstudy.net/)
 * [Filezilla-client](https://filezilla-project.org/download.php?type=client)
 * [Git](https://git-scm.com/downloads)
+* [TortoiseGit](https://tortoisegit.org/)
 * [TortoiseGit](https://tortoisegit.org/download/)
 * [Wireshark](https://www.wireshark.org/download.html)
 * [Debian](https://www.debian.org/)
