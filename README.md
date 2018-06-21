@@ -61,6 +61,7 @@ There are some nice vps hosting commerce.
 | Vultr | https://my.vultr.com/ |
 | Namesilo | https://www.namesilo.com |
 | Budgetvm | https://cn.budgetvm.com/openvz-linux-vps.php |
+| Hiformance |https://my.hiformance.com/clientarea.php |
 ---
 ## Proxy
 There are some proxy for free.
