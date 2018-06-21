@@ -66,7 +66,7 @@ There are some nice vps hosting commerce.
 | Hiformance | https://my.hiformance.com/clientarea.php |
 | Linode | www.linode.com |
 | Evolution | http://vps.evolution-host.com/ |
-| LocVPS | locvps.wenjingnetwork.com |
+| LocVPS | https://locvps.wenjingnetwork.com |
 | 八千互联 | http://www.8000idc.com |
 | Contabo | https://contabo.com/ |
 ---
