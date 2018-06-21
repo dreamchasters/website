@@ -54,14 +54,21 @@ There are some nice vps hosting commerce.
 | :--: | :------ |
 | 18vps | <http://www.18vps.com/> |
 | bandwagon | <https://www.bwh1.net/> |
-| digitalocean | <https://www.digitalocean.com/> |
 | BuyVM | <http://buyvm.net/> |
 | RamNode | <http://www.ramnode.com/> |
 | quickhostuk | <https://www.quickhostuk.com/> |
-| Vultr | https://my.vultr.com/ |
 | Namesilo | https://www.namesilo.com |
 | Budgetvm | https://cn.budgetvm.com/openvz-linux-vps.php |
-| Hiformance |https://my.hiformance.com/clientarea.php |
+| Digitalocean | <https://www.digitalocean.com/> |
+| Vultr | https://my.vultr.com/ |
+| Hiformance | https://my.hiformance.com/clientarea.php |
+| NFPHosting | https://portal.nfphosting.com/ |
+| Hiformance | https://my.hiformance.com/clientarea.php |
+| Linode | www.linode.com |
+| Evolution | http://vps.evolution-host.com/ |
+| LocVPS | locvps.wenjingnetwork.com |
+| 八千互联 | http://www.8000idc.com |
+| Contabo | https://contabo.com/ |
 ---
 ## Proxy
 There are some proxy for free.
