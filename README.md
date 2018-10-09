@@ -70,6 +70,7 @@ There are some nice vps hosting commerce.
 | 八千互联 | http://www.8000idc.com |
 | Contabo | https://contabo.com/ |
 | 1and1 | https://www.1and1.com/ |
+| UOvZ(又云) | www.uovz.com |
 ---
 ## Proxy
 There are some proxy for free.
