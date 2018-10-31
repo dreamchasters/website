@@ -84,11 +84,11 @@ There are some proxy for free.
 ## 文档管理
 在线接口文档管理
 
-| Name | Address |
+| Name | Address | Description |
 | :--: | :------ |
-| 小幺鸡 | <http://www.xiaoyaoji.cn/> |
-| MinDoc | <https://www.iminho.me/> |
-| 曲奇 | <https://quqi.com/> |
-| 语雀 | <https://www.yuque.com/> |
-| Easy Mock | <https://easy-mock.com/> |
+| 小幺鸡 | <http://www.xiaoyaoji.cn/> | 小幺鸡，简单好用的接口文档管理工具 |
+| MinDoc | <https://www.iminho.me/> | MinDoc 接口文档在线管理系统 |
+| 曲奇 | <https://quqi.com/> | 曲奇办公 |
+| 语雀 | <https://www.yuque.com/> | 一款知识创作工具 |
+| Easy Mock | <https://easy-mock.com/> | Easy Mock 是一个可视化, 并且能快速生成模拟数据的持久化服务 |
 ---
