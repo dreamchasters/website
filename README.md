@@ -90,4 +90,5 @@ There are some proxy for free.
 | MinDoc | <https://www.iminho.me/> |
 | 曲奇 | <https://quqi.com/> |
 | 语雀 | <https://www.yuque.com/> |
+| Easy Mock | <https://easy-mock.com/> |
 ---
