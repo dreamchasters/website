@@ -103,22 +103,22 @@ There are some proxy for free.
 | web4africa | <https://web4africa.ng/bitcoin.php> | 南非 |
 | hawkhost | <https://www.hawkhost.com/> | 加拿大 |
 | directnic | <https://directnic.com/> | 美国 |
-| gandi | <	https://www.gandi.net/domain> | 法国 |
+| gandi | <https://www.gandi.net/domain> | 法国 |
 | cinfu | <https://www.cinfu.com/domains/> | 塞舌尔 |
 | neodomaine | <https://www.neodomaine.com/> | 法国 |
 | namesilo | <https://www.namesilo.com/?rid=fdefa55in> | 美国 |
 | domains4bitcoins | <https://www.domains4bitcoins.com/> | 澳大利亚 |
-| IDOTZ | <	https://idotz.net/bitcoin/> | 美国 |
-| orangewebsite | <	https://www.orangewebsite.com/domain-registration.php> | 冰岛 |
+| IDOTZ | <https://idotz.net/bitcoin/> | 美国 |
+| orangewebsite | <https://www.orangewebsite.com/domain-registration.php> | 冰岛 |
 | easydns | <https://cp.easydns.com/manage/domains/> | 加拿大 |
 | internetbs | <https://internetbs.net/> |  |
 | monovm | <https://monovm.com/domain/> |  |
-| get.ink | <> | https://get.ink/bitcoin	 |
+| get.ink | <https://get.ink/bitcoin> |  |
 | microtronix | <https://clients.microtronix-tech.com/> |  |
 | noip | <https://www.noip.com/domains> |  |
 | UniHost | <https://unihost.com/> |  |
-| QHoster | <	https://www.qhoster.com/domains.html > |  |
-| ititch | <	https://ititch.com/domains/> |  |
+| QHoster | <https://www.qhoster.com/domains.html > |  |
+| ititch | <https://ititch.com/domains/> |  |
 | bitronictech | <https://www.bitronictech.net/buy-domains-bitcoin.php> |  |
 | bitdomain | <http://www3.bitdomain.biz/> |  |
 ---
