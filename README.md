@@ -93,3 +93,8 @@ There are some proxy for free.
 | Easy Mock | <https://easy-mock.com/> | 一个可视化, 并且能快速生成模拟数据的持久化服务 |
 | swagger | <https://swagger.io/> | 最好的API是使用Swagger工具构建的 |
 ---
+## 域名注册商
+目前支持虚拟货币支付的域名注册商详见下表
+| Name | Address | Description |
+| :--: | :------ | :------------ |
+| namecheap | <https://www.namecheap.com/> | 美国 |
