@@ -117,7 +117,7 @@ There are some proxy for free.
 | microtronix | <https://clients.microtronix-tech.com/> |  |
 | noip | <https://www.noip.com/domains> |  |
 | UniHost | <https://unihost.com/> |  |
-| QHoster | <https://www.qhoster.com/domains.html > |  |
+| QHoster | <https://www.qhoster.com/domains.html> |  |
 | ititch | <https://ititch.com/domains/> |  |
 | bitronictech | <https://www.bitronictech.net/buy-domains-bitcoin.php> |  |
 | bitdomain | <http://www3.bitdomain.biz/> |  |
