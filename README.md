@@ -95,6 +95,7 @@ There are some proxy for free.
 ---
 ## 域名注册商
 目前支持虚拟货币支付的域名注册商详见下表
+
 | Name | Address | Description |
 | :--: | :------ | :------------ |
 | namecheap | <https://www.namecheap.com/> | 美国 |
